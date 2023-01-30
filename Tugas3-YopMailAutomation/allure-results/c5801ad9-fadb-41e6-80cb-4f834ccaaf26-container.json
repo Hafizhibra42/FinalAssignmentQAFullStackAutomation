@@ -1,0 +1,1 @@
+{"uuid":"c5801ad9-fadb-41e6-80cb-4f834ccaaf26","name":"qaautomation.yopmail.BasedWebTest.setUp","description":"","start":1672077716309,"stop":1672077731717,"children":["4ebd8721-96f6-46f3-a67d-afc39869a819"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","start":1672077716310,"stop":1672077731716}]}

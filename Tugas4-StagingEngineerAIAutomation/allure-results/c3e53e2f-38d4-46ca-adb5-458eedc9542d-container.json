@@ -1,0 +1,1 @@
+{"uuid":"c3e53e2f-38d4-46ca-adb5-458eedc9542d","name":"qaautomation.stagingengineerai.BaseAPITest.inputSignUpAPI","description":"","start":1673113500470,"stop":1673113505952,"children":["dde92448-4a38-4845-ba4f-3bdfa7368668"],"befores":[{"name":"inputSignUpAPI","status":"passed","stage":"finished","description":"","start":1673113500471,"stop":1673113505951}]}

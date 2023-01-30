@@ -1,0 +1,1 @@
+{"uuid":"d5f169c4-56aa-45e2-b967-8f1105a9e320","name":"qaautomation.yopmail.BasedWebTest.tearDown","description":"","start":1672078696322,"stop":1672078696444,"children":["39ffdf60-f4d5-4201-800e-2413907919a2"],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","start":1672078696322,"stop":1672078696444}]}

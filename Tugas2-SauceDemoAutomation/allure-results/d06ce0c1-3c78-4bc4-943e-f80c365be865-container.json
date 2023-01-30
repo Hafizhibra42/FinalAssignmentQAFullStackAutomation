@@ -1,0 +1,1 @@
+{"uuid":"d06ce0c1-3c78-4bc4-943e-f80c365be865","name":"qaautomation.saucedemo.BasedWebTest.setUp","description":"","start":1674933956571,"stop":1674933965044,"children":["bc806310-780d-4454-ad66-13f6c2d5dc55"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","start":1674933956572,"stop":1674933965043}]}
